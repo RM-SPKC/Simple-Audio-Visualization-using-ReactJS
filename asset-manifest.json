@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple-Audio-Visualization-using-ReactJS/static/css/main.e6c13ad2.css",
+    "main.js": "/Simple-Audio-Visualization-using-ReactJS/static/js/main.59a45e80.js",
+    "static/js/488.742bb3ce.chunk.js": "/Simple-Audio-Visualization-using-ReactJS/static/js/488.742bb3ce.chunk.js",
+    "index.html": "/Simple-Audio-Visualization-using-ReactJS/index.html",
+    "main.e6c13ad2.css.map": "/Simple-Audio-Visualization-using-ReactJS/static/css/main.e6c13ad2.css.map",
+    "main.59a45e80.js.map": "/Simple-Audio-Visualization-using-ReactJS/static/js/main.59a45e80.js.map",
+    "488.742bb3ce.chunk.js.map": "/Simple-Audio-Visualization-using-ReactJS/static/js/488.742bb3ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.59a45e80.js"
+  ]
+}
